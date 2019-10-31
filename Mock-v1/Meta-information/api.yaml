@@ -61,7 +61,7 @@ corsConfiguration:
    - DELETE
    - PATCH
    - OPTIONS
-endpointConfig: '{"endpoint_type":"http","sandbox_endpoints":{"url":"http://www.mocky.io/v2/5db9606f30000040765ee249"},"production_endpoints":{"url":"http://www.mocky.io/v2/5db9606f30000040765ee249"}}'
+endpointConfig: '{"endpoint_type":"http","sandbox_endpoints":{"url":"http://www.mocky.io/v2/5dba7c1b3000008c00028ef6"},"production_endpoints":{"url":"http://www.mocky.io/v2/5dba7c1b3000008c00028ef6"}}'
 responseCache: Disabled
 cacheTimeout: 300
 implementation: ENDPOINT
